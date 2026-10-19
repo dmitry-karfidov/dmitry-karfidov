@@ -2,7 +2,7 @@
 
 **DevOps Engineer with an interest in backend development.**
 
-I work with Linux, containers, CI pipelines, monitoring, and Bash automation. I enjoy making services easier to deploy, observe, and maintain. My experience with Java and Spring Boot helps me understand the applications behind the infrastructure and collaborate with developers when investigating problems.
+I work with Linux, containers, CI/CD pipelines, monitoring, and Bash automation. I enjoy making services easier to deploy, observe, and maintain. My experience with Java and Spring Boot helps me understand the applications behind the infrastructure and collaborate with developers when investigating problems.
 
 ## DevOps experience
 
