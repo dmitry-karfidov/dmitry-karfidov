@@ -1,74 +1,57 @@
-## Hi there 👋
-
 # Dmitry Karfidov
 
-Java Backend Developer focused on backend systems, business logic, and maintainable application design.
+**DevOps Engineer with an interest in backend development.**
 
-## About
+I work with Linux, containers, CI pipelines, monitoring, and Bash automation. I enjoy making services easier to deploy, observe, and maintain. My experience with Java and Spring Boot helps me understand the applications behind the infrastructure and collaborate with developers when investigating problems.
 
-I started my professional career in the legal and financial domain, where I worked with business processes, requirements, data, reporting, and cross-team communication. This experience helped me develop strong analytical thinking, the ability to structure information, and attention to business logic.
+## DevOps experience
 
-My transition to backend development was a conscious career decision. Over time, I became more interested not only in analyzing how systems should work, but also in designing and implementing the logic behind them. That is why I chose backend development: it allows me to solve practical business problems through application architecture, APIs, data modeling, and service interaction.
+At RCNTEC, I worked on internal services, monitoring, and tooling for equipment management:
 
-I chose Java and the Spring ecosystem because they are widely used in enterprise development and provide a strong foundation for building reliable, scalable, and maintainable applications.
+- **Containerized services:** deployed an internal Wiki.js instance on a Linux VM using Docker Compose and PostgreSQL, configured local DNS access, and automated backups with Bash.
+- **Monitoring:** set up Prometheus and Grafana to monitor server resources, application availability, and container health.
+- **CI automation:** built a GitLab CI pipeline for a SmartPDU management project using Zabbix and SNMP. The pipeline checked scripts, tested request generation and sending without physical equipment, and packaged deployment files for a Linux VM.
+- **Operations and troubleshooting:** maintained monitored hosts, refined alert rules, and investigated incidents using Linux logs and metrics, including high I/O wait.
 
-## Skills
+The SmartPDU solution was intended for local deployment at customer sites without internet access. This gave me experience preparing software for environments where deployment and operation need to be self-contained.
 
-- **Language:** Java
-- **Frameworks:** Spring Framework, Spring Boot, Spring Web, Spring Data JPA, Hibernate, Spring Security
-- **API:** REST, request validation, exception handling
-- **Database:** PostgreSQL, SQL, Flyway
-- **Tools:** Maven, Docker, Docker Compose, Git, Linux
-- **Testing:** JUnit 5, Mockito, AssertJ
+## Technical toolkit
 
-## Practical Experience
+| Area | Technologies |
+| --- | --- |
+| Infrastructure and automation | Linux, Bash, Docker, Docker Compose, Git, GitLab CI, DNS |
+| Monitoring | Prometheus, Grafana, Zabbix |
+| Databases | PostgreSQL, SQL |
+| Backend development | Java, Spring Boot, Spring Web, Spring Data JPA, Hibernate, Spring Security |
+| Build, testing, and migrations | Maven, JUnit 5, Mockito, AssertJ, Flyway |
 
-I have hands-on experience with:
-- designing and implementing REST APIs
-- building backend services with Spring Boot
-- database schema evolution with Flyway
-- working with PostgreSQL and JPA/Hibernate
-- HTTP-based interaction between services
-- request validation and error handling
-- containerizing applications with Docker
+I am developing my knowledge of Kubernetes, infrastructure as code, and automated application delivery. These are areas for further growth beyond my current commercial experience.
 
-## Projects
+## Backend projects
+
+Backend development is an ongoing interest and a practical complement to my DevOps work. I have built REST APIs, worked with data models and migrations, and tested service behavior.
+
+### Warehouse management system
+
+Participated as a Java developer in a team project through Yandex Practicum's project practice. Contributed to a microservice-based warehouse management system, including testing and CI-related tasks. Received a recommendation letter following the project.
 
 ### Explore With Me
-Backend service project built with Java and Spring Boot.
 
-Worked on:
-- REST endpoints
-- validation
-- exception handling
-- database interaction
-- migrations
-- service integration
-- Docker-based environment
+A Java and Spring Boot backend project covering REST endpoints, validation, error handling, database access, migrations, service integration, and a Docker-based environment.
 
 ### Simple Tasker
-Personal project created to deepen backend engineering skills through practice.
 
-Focus areas:
-- task management logic
-- database modeling
-- testing
-- clean architecture
-- containerized development environment
+A personal backend project focused on task management, database modeling, testing, application structure, and a containerized development environment.
 
-## What I Bring
+## Background and direction
 
-My analytical background helps me look at development tasks not only from the technical side, but also from the business side. I am comfortable working with logic-heavy tasks, structuring requirements, and turning them into clear technical solutions.
+Before moving into engineering, I worked in the legal and financial domain. That background taught me to investigate problems, clarify requirements, and document decisions carefully.
 
-## Career Goal
+I am looking for **DevOps engineering opportunities** where I can contribute to infrastructure reliability, CI/CD, and automation while continuing to deepen my understanding of backend systems.
 
-I am looking for a Java backend role where I can grow through real engineering tasks, contribute to product development, and continue building strong backend fundamentals.
+## Contact
 
-## Contacts
+- Email: [dmitry.karfidov@gmail.com](mailto:dmitry.karfidov@gmail.com)
+- Telegram: [@DmitryKarfidov](https://t.me/DmitryKarfidov)
 
-- Email: dmitry.karfidov@gmail.com
-- Telegram: https://t.me/DmitryKarfidov
-
-## Status
-
-Open to work.
+**Open to work.**
