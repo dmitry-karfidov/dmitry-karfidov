@@ -6,15 +6,6 @@ I work with Linux, containers, CI/CD pipelines, monitoring, and Bash automation.
 
 ## DevOps experience
 
-At RCNTEC, I worked on internal services, monitoring, and tooling for equipment management:
-
-- **Containerized services:** deployed an internal Wiki.js instance on a Linux VM using Docker Compose and PostgreSQL, configured local DNS access, and automated backups with Bash.
-- **Monitoring:** set up Prometheus and Grafana to monitor server resources, application availability, and container health.
-- **CI automation:** built a GitLab CI pipeline for a SmartPDU management project using Zabbix and SNMP. The pipeline checked scripts, tested request generation and sending without physical equipment, and packaged deployment files for a Linux VM.
-- **Operations and troubleshooting:** maintained monitored hosts, refined alert rules, and investigated incidents using Linux logs and metrics, including high I/O wait.
-
-The SmartPDU solution was intended for local deployment at customer sites without internet access. This gave me experience preparing software for environments where deployment and operation need to be self-contained.
-
 ## Technical toolkit
 
 | Area | Technologies |
