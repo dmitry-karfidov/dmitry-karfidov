@@ -8,7 +8,7 @@ I work with Linux, containers, CI/CD pipelines, monitoring, and Bash automation.
 
 | Area | Technologies |
 | --- | --- |
-| Infrastructure and automation | Linux, Bash, Docker, Docker Compose, Git, GitLab CI, DNS |
+| Infrastructure and automation | Linux, Bash, Docker, Docker Compose, Git, GitLab CI, DNS, Kubernetes, CI/CD |
 | Monitoring | Prometheus, Grafana, Zabbix |
 | Databases | PostgreSQL, SQL |
 | Backend development | Java, Spring Boot, Spring Web, Spring Data JPA, Hibernate, Spring Security |
